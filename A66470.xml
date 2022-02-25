@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Religion exprest by loyalty in a sermon preach'd before the right worshipful Samuel Swift Esq., Mayor of the ancient, honourable and loyal city of Worcester, the first Sunday after his inauguration or instalment, being the 19th day of October, in the year of our redemption 1684, at the parish church of St. Swithin, upon a text selected by William Swift, Esq. (his truly loyal father) being the 21st. &amp; 22d. verses of the 24th chapter of Solomons Proverbs, in these following expressions / by Will. Williams ...</title>
+            <author>Williams, William, Inferior Brother to the venerable and orthodox clergy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66470</idno>
+            <idno type="STC">Wing W2790</idno>
+            <idno type="STC">ESTC R12293</idno>
+            <idno type="EEBO-CITATION">12646749</idno>
+            <idno type="OCLC">ocm 12646749</idno>
+            <idno type="VID">65155</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66470)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65155)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 969:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Religion exprest by loyalty in a sermon preach'd before the right worshipful Samuel Swift Esq., Mayor of the ancient, honourable and loyal city of Worcester, the first Sunday after his inauguration or instalment, being the 19th day of October, in the year of our redemption 1684, at the parish church of St. Swithin, upon a text selected by William Swift, Esq. (his truly loyal father) being the 21st. &amp; 22d. verses of the 24th chapter of Solomons Proverbs, in these following expressions / by Will. Williams ...</title>
+                  <author>Williams, William, Inferior Brother to the venerable and orthodox clergy.</author>
+                  <author>Swift, William.</author>
+               </titleStmt>
+               <extent>[6], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author by T. Braddyll, and are to be sold by Walter Davies ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XXIV, 21-22 --  Sermons.</term>
+               <term>Loyalty --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:65155:1"/>
+            <p>
+               <figure>
+                  <figDesc>blazon or coat of arms of the united kingdoms of England Scotland and Ireland, under Charles II</figDesc>
+                  <head>·DIEV · ET · MON · DROIT ·</head>
+                  <p>God ſave the KING.</p>
+               </figure>
+            </p>
+            <p>Publiſhed at the Requeſt of the <hi>MAYOR, ALDERMEN</hi> and other noted Perſons of the City of <hi>WORCESTER.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:65155:1" rendition="simple:additions"/>
+            <p>RELIGION EXPREST BY LOYALTY: IN A SERMON Preach'd before the RIGHT WORSHIPFUL Samuel Swift Eſq; MAYOR of the Antient, Honourable and Loyal <hi>City of Worceſter.</hi> The firſt Sunday after his Inauguration or Inſtalment, being the 19th. day of <hi>October,</hi> in the year of our Redemption 1684. At the Pariſh Church of St. <hi>Swithin,</hi> upon a Tex Selected by <hi>William Swift,</hi> Eſq; (his truly Loyal Father) being the 21ſt. &amp; 22d. <hi>Verſes</hi> of the 24th. <hi>Chapter</hi> of <hi>Solomons Proverbs,</hi> in theſe following expreſſions.—</p>
+            <q>
+               <p>—My Son, fear thou the Lord and the King, and meddle not with them that are given to change.</p>
+               <p>—For their Calamity ſhall riſe ſuddenly, and who knoweth the ruin of them both.</p>
+            </q>
+            <p>By <hi>Will: Williams,</hi> an inferior Brother to the venerable and Orthodox Clergy.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, by <hi>T. Braddyll,</hi> and are to be ſold by <hi>Walter Davies</hi> Publiſher in <hi>Amen Corner,</hi> and by moſt <hi>Book-sellers</hi> in <hi>London</hi> and <hi>Worceſter.</hi> 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:65155:2"/>
+            <pb facs="tcp:65155:2"/>
+            <head>To the Right Worſhipful <hi>Samuel Swift</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Mayor,</hi> and alſo to the Worſhipful <hi>Aldermen,</hi> together with all other worthy <hi>Mem<g ref="char:EOLhyphen"/>bers</hi> of the <hi>Common-Council</hi> pertaining to the City of <hi>WORCESTER.</hi>
+            </head>
+            <opener>
+               <salute>Loving and Loyal Gentlemen,</salute>
+            </opener>
+            <p>IT is very obſervable, that most of you (to whom this Epistle is Dedicated) were perſo<g ref="char:EOLhyphen"/>nally preſent at the delivery of the (following) Sermon, which diſcourſe I found to be complyable with your Loyal diſpoſitions: otherwiſe I had not been ſo<g ref="char:EOLhyphen"/>licited (by ſo many of its Auditors) to publiſh the ſame in Print. And tho I was much importun'd thereunto, yet I durst not preſume upon ſuch an enterprize, until I had taken the (wary) advice of much more diſ<g ref="char:EOLhyphen"/>creet and better judgments.</p>
+            <p>The Text was recommended to my manage<g ref="char:EOLhyphen"/>ment, by a well-wiſher (and good benefactor) both to the Church of <hi>England</hi> and the Common-weal, name<g ref="char:EOLhyphen"/>ly <hi>Wi. Swift</hi> 
+               <abbr>Eſq</abbr> and it is an undoubted Teſtimoni<g ref="char:EOLhyphen"/>al, not only of his Religious Principles, but alſo of his Loyal Practices; whoſe (longing) deſire is to ſee Uni<g ref="char:EOLhyphen"/>formity flouriſhing both in Church and State, the
+<pb facs="tcp:65155:3"/> which happineſs would much redound to the ſatisfacti<g ref="char:EOLhyphen"/>on of all ſuch Perſons as have true affection to the preſent Government; for if we take a ſerious proſ<g ref="char:EOLhyphen"/>pect of the Primitive times, nothing more prejudic'd the Chriſtian Religion, than the irregular diſcords of diſaffected People, as appears in the Faction of the Church of <hi>Corinth,</hi> where <hi>one ſaid, I am of Paul, another I am of Apollo, a third I am of Cephas, and a fourth I am of Chriſt,</hi> as if <hi>Paul, Apollo, Peter</hi> and <hi>Chriſt,</hi> had various Pro<g ref="char:EOLhyphen"/>feſsions of the ſame univerſal or Catholick Doctrine, which was ſo far repugnant with the (uniformal) practice of the Apoſtles, that <hi>St. Paul</hi> ſharply re<g ref="char:EOLhyphen"/>prehended ſuch conceited Parties, for their inordinate and ſelf-will'd distinctions, as if (thereby) they contracted the guilt of <hi>Saducaean</hi> error, <hi>i. e.</hi> in de<g ref="char:EOLhyphen"/>nying the Reſurrection of Chriſt from the dead, as appears in his <hi>1 Epiſt. Cor. Chap. 15. Verſ. 12.</hi>
+            </p>
+            <p>This Capital default was attended with many other Criminous (or Enormous) miſtakes, by reaſon of their incongruous Practices and Contentious Cuſtoms, which were the perfidious (and unſufferable) Cauſes, that brought Faith into Faction, and Religion into Re<g ref="char:EOLhyphen"/>bellion; like our giddy Diſſenters from the Church of <hi>England;</hi> who contrary to the courſe of the Learn<g ref="char:EOLhyphen"/>ed and Holy-men, have imagin'd and fram'd ſtrange
+<pb facs="tcp:65155:3"/> concluſions in Divinity, as alledging the Choice of Miniſters, to ſtand upon the approbation of the Peo<g ref="char:EOLhyphen"/>ple, and that they are all of equal authority, alſo they affirm the Church of <hi>Englands</hi> Government to be unlawful and Anti-Chriſtian, and that the Lords Prayer commanded by our Saviour, must not be uſed, no Holy-day obſerv'd but the Sabbath, no Primitive Father ſcited in the Pulpit, the <hi>Book</hi> of <hi>Common-Prayer</hi> (or <hi>Divine Service</hi>) must be aboliſhed, all Ceremonies of our Church ſwept away as Popiſh, that the calling of Biſhops is an Anti-chriſtian Hie<g ref="char:EOLhyphen"/>rarchy, that Reformation of Religion belongs to the Commonalty, that the People are better than the King, and of greater Authority, that the Preſbitery and not the Prince, ſhould bear the Supream Government, in matters Eccleſiaſtical. Theſe (and ſuch like No<g ref="char:EOLhyphen"/>velties) are their ſeditious and confuſed Tenets, the reaſon of all which miſtakes, as <hi>St. Peter</hi> remarks in his <hi>2d. Epiſt.</hi> the <hi>2d. Chap. Verſe 10,</hi> is becauſe they are preſumptuous, ſelf-will'd, deſpiſing Government, and ſpeaking evil of Dignities; tho the ſame Apostle obliges them (by the expreſs Rule of Scripture) To fear God and honour their King, but they (by the Magick of their Seperation) divide that Text of Scripture aſunder, which Christ and his Apoſtle have joyned together, yea, it viſibly ap<g ref="char:EOLhyphen"/>pears,
+<pb facs="tcp:65155:4"/> that though they pretended to fear God, yet they ſo far diſhonored their King, as to occaſion the death of the Lord's Anointed, <hi>to wit,</hi> our late Royal Martyr; and it is too apparent, that the like miſchief was lately hatcht, in order to depoſe the Re<g ref="char:EOLhyphen"/>gal Perſon of our preſent Soveraign (had not God preſerved him by a miracle of unparalelled Mercy) but to prevent ſuch Schiſm, Treaſon and Rebellion, I ſhall conclude this Epistle with <hi>St. Paul's</hi> rule of Conformity in his <hi>1 Epiſt. Cor. Chap. 1 Verſe 10.</hi> where he ſpeaks theſe expreſſions to the Seditious <hi>Corinthians.</hi>—</p>
+            <p>—<hi>Now I beſeech you Brethren, by the Name of our Lord Jeſus Chriſt, that ye all ſpeak the ſame thing, and that there be no diviſions among you, but that ye be perfectly joyned together in the ſame mind, and in the ſame Judgment:</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Which</hi> Loyal Gentlemen, <hi>Shall be the conſtant Prayer of your faithful Friend and Humble Servant, whilſt</hi> WILLIAM WILLIAMS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:65155:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Prov. 24.</hi> Chap. <hi>21, 22.</hi> Verſ.</bibl>
+                  <p>My Son, fear thou the Lord, and the King: and meddle not with them that are given to change.</p>
+                  <p>For their Calamity ſhall riſe ſuddenly, and who know<g ref="char:EOLhyphen"/>eth the ruine of them both.</p>
+               </q>
+            </epigraph>
+            <p>THIS Portion of Scripture is ſo ele<g ref="char:EOLhyphen"/>gantly Emphatical in its important expreſſions, that (without contro<g ref="char:EOLhyphen"/>verſie) Soveraign Kings and Princes are the true Types or reſemblances of Gods Su<g ref="char:EOLhyphen"/>preme Majeſty; and ſuch a one was the moſt Majeſtick and Magnificent <hi>Solomon,</hi> who (in reference to his abundant Wiſdom) did more repreſent his Heavenly Maker, than a<g ref="char:EOLhyphen"/>ny other Terreſtrial Monarch, whether pre<g ref="char:EOLhyphen"/>ceding or ſucceeding his Regal dignity; for he was ſo highly in favour with the Higheſt, as to be called <hi>Lemuel,</hi> a King belonging to the Lord, alſo <hi>Jedidiah,</hi> a King beloved of the
+<pb n="2" facs="tcp:65155:5"/> Lord, and likewiſe <hi>Shelemo,</hi> which implies a peaceable and a quiet King.</p>
+            <p>Theſe ſignal appellations, are the ſacred ſtamps wherewith God Almighty imprints his own Image upon the Perſons of pious Princes; that he may ranck them in the firſt and moſt principal Hierarchy of Magiſtratical Men; where, by a Deifi'd dignity, his Holi<g ref="char:EOLhyphen"/>neſs ſtiles them Gods, and Children of the moſt high, as appears in the 82d. <hi>Pſal.</hi> at the 1ſt. and the 6th. <hi>Verſes.</hi> Alſo <hi>Moſes</hi> ſaith in the 22d. of <hi>Exod.</hi> at the 28th. <hi>Verſ. Thou ſhalt not revile the Gods, nor curſe the Ruler of they Peo<g ref="char:EOLhyphen"/>ple.</hi> By which ſupernal Prerogative, they are priviledg'd to exerciſe the greater Autho<g ref="char:EOLhyphen"/>rity, yet are they ſo limmited by the reſtriction of Divine Precepts, that they ought not to act any thing contradictory, either to ſound juſtice or judgment; becauſe the Soveraign duty of theſe Monarchs chiefly conſiſts in matters of Religion, that is, in eſtabliſhing the Faith <hi>ſecundum verbum Dei, according to the word of God,</hi> and to take care when it is ſo e<g ref="char:EOLhyphen"/>ſtabliſh'd, that it be reverently eſteem'd and practiced, both by themſelves and their Sub<g ref="char:EOLhyphen"/>jects; Alſo the Law of God and nature du<g ref="char:EOLhyphen"/>ly
+<pb n="3" facs="tcp:65155:5"/> obſerved, mildneſs and meekneſs uſed to<g ref="char:EOLhyphen"/>wards the vertuous, likewiſe correction and inſtruction to thoſe that are vitious, in order to reclaim them unto a ſober and Godly Con<g ref="char:EOLhyphen"/>verſation: But in every reſpect, juſtice and impartiality ought to be uſed towards all manner of Perſons, be they of what Nature, Degree, or Quality ſoever.</p>
+            <p>And as theſe forementioned particulars are the incumbent duties of ſuperior Powers, im<g ref="char:EOLhyphen"/>poſed upon them for the Glory of God, the good of his Church, and the wel-fare of Kingdoms and Common-weals: So likewiſe, every inferior Perſon (through the vaſt Cir<g ref="char:EOLhyphen"/>cumference of the whole Univerſe) is obli<g ref="char:EOLhyphen"/>ged, both by the Laws of God and Nature, to pay unto his Governor, whether Stateſ<g ref="char:EOLhyphen"/>man, Prince, King, or Emperor; ſuch re<g ref="char:EOLhyphen"/>ſpect, love, obedience, dues and cuſtoms, as ſhall accrue Tributary to that Potentate (or Plenipotentiary) according to the pre<g ref="char:EOLhyphen"/>cepts and injunctions of thoſe practicable and penal Laws: For we may diſcern by the light of reaſon, in caſe any ſubject (being capable) will refractorily omit to ſupport his Prince in time of neceſſity, when occaſion
+<pb n="4" facs="tcp:65155:6"/> calls for the aſſiſtance of his Purſe, or Perſon, that at ſuch an opportunity the Prince may juſtly refuſe to own, or protect him as his Subject. But, to prevent ſuch miſcarriages, the wiſeſt of Temporal Kings, even <hi>Solomon</hi> himſelf has left us many preſidential Pre<g ref="char:EOLhyphen"/>cepts, to create mutual reſpects between the one and the other; ſo that we need not have recourſe to the <hi>Athenian</hi> Schools, nor conſult the writings of Philoſophers, for they are ſo near unto us, as to be found in the Oracles of God, where, as ſo many Golden Rules, they di<g ref="char:EOLhyphen"/>rect and ſtir us up, to tender our Allegiance unto Supremacy. And this is clearly evidenc'd in the Foundation of my preſent Diſcourſe, where a King preſcribing to his Subject the Law of Loyalty, confers upon him the Ti<g ref="char:EOLhyphen"/>tle of a Son, that he might become obedient by the advice of his Father, as obſerving that a Father will give no ill Council to the Son, unleſs when deceiv'd in his own judg<g ref="char:EOLhyphen"/>ment: And ſuch a Father was indulgent <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> King of <hi>Iſrael,</hi> for when he Reigned in his unparrallel'd pomp and Grandeur at <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> he was <hi>Pater Patriae</hi> to the <hi>Iſraelites,</hi> a Father that gave them good and wholeſom
+<pb n="5" facs="tcp:65155:6"/> inſtructions; as apparently appears by the arguments he made uſe of to make a ſon born in his Kingdom, become a Loyal Subject to his Prince, perſwading him in the firſt place, to fear God and the King; <hi>Secondly,</hi> not to meddle with them that are given to change; <hi>Thirdly,</hi> to beware of their ſudden Calamities; <hi>Fourthly,</hi> to eſchew the ruine of ſuch diſorderly Diſſenters. All which cautions are compen<g ref="char:EOLhyphen"/>diouſly comprehended in the words of my preſent Text, where King <hi>Solomon</hi> gives this prudent admonition in the Perſon of one, to all other ſubjects, ſaying to each of them— —<hi>My Son, fear thou the Lord and the King, and meddle not with them that are given to change.— —For their Calamity ſhall riſe ſuddenly, and who knoweth the ruine of them both?</hi> —</p>
+            <p>In which words we may take notice of <hi>four</hi> remarkable particulars.</p>
+            <p>
+               <hi>Firſt, Solomons</hi> Exhortation unto every ra<g ref="char:EOLhyphen"/>tional Perſon, to Fear, Honour and Obey, both God and his Legal Soveraign, as ap<g ref="char:EOLhyphen"/>pears in the former clauſe of the firſt <hi>Verſe</hi> in my Text, where he ſaith— <hi>My Son, fear thou the Lord and the King.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> His dehortation, to diſſwade (or
+<pb n="6" facs="tcp:65155:7"/> withdraw) a Subject from adhering to ſuch People as change their principles and practi<g ref="char:EOLhyphen"/>ces, from Regal Government,—manifeſted by theſe words of the latter clauſe in my firſt Verſe.—<hi>And meddle not with them that are given to change.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> His demonſtration of ſudden and certain Calamities, that by the Hand of Di<g ref="char:EOLhyphen"/>vine Juſtice, are recompenſible upon ſuch Schiſmatical Diſſenters. And this is urg'd from the firſt branch of the ſecond Verſe in my Text, where <hi>Solomon</hi> affirms—<hi>That their Calamity ſhall riſe ſuddenly.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> The deſtruction of that Empire, Kingdom or Principality; wherein the Sub<g ref="char:EOLhyphen"/>jects are Arbitrarily divided, both among and againſt themſelves; which alſo is infer<g ref="char:EOLhyphen"/>red from the laſt branch in my Text, where <hi>Solomon</hi> propounds this Ominous Interroga<g ref="char:EOLhyphen"/>tory—<hi>And who knoweth the ruine of them both?</hi>
+            </p>
+            <p>I ſhall Counterpoiſe theſe four particulars with four other pertinent propoſitions, ari<g ref="char:EOLhyphen"/>ſing naturally from the words of the Text, where, in the firſt place,</p>
+            <p>I will aſſert, that it is the incumbent duty of every rational Perſon, to Fear God, and Honour his King.</p>
+            <pb n="7" facs="tcp:65155:7"/>
+            <p n="2">2dly. I ſhall affirm, that he who fears God, ought in ſuch a manner to Honour his King, as not to ſide with thoſe that would alter (or change) his Government.</p>
+            <p n="3">3dly. I will prove, by (expreſs Teſtimo<g ref="char:EOLhyphen"/>nies of) Scripture, that ſudden Calamities have enſued upon the Rebellion of Schiſma<g ref="char:EOLhyphen"/>tical and Factious People.</p>
+            <p n="4">4thly. I ſhall maintain, that in whatever Nation the People are Arbitrarily divided in oppoſition to the Government, ſuch enter<g ref="char:EOLhyphen"/>prizes portend thoſe parties ruine.</p>
+            <p n="5">5thly, and <hi>Laſtly,</hi> I will infer the application, both from the Premiſes and the Concluſion of my Text.—Theſe are the points which with God's Aſſiſtance, I deſign to inſiſt up<g ref="char:EOLhyphen"/>on, in order whereunto, I ſhall begin with the foremoſt—Namely, to Aſſert, That it is the incumbent duty of every rational Perſon, to Fear God, and Honour his King, as being ſuitable with the firſt clauſe in my Text, where <hi>Solomon</hi> ſaith,—<hi>My Son, fear thou the Lord, and the King.</hi>
+            </p>
+            <p>The Omnipotent and Eternal <hi>Jehovah</hi> (be<g ref="char:EOLhyphen"/>ing the Supreme Monarch of Heaven and Earth) ſtil'd <hi>The King of Kings, and Lord
+<pb n="8" facs="tcp:65155:8"/> of Lords,</hi> ought to be feared, honoured and obeyed, before any other Potentate whatſo<g ref="char:EOLhyphen"/>ever; foraſmuch as he is their Creator and Governor, bearing rule over all the world, and therefore to be feared as the King of Na<g ref="char:EOLhyphen"/>tions, according to the obſervation of the Prophet <hi>Jeremiah,</hi> in the 10 <hi>Chap.</hi> of his Pro<g ref="char:EOLhyphen"/>phecy, <hi>Verſ.</hi> 7. Where he ſaith, <hi>Who will not fear thee O King of Nations?</hi> Where King of Nations, is Gods own Prerogative, although he hath given the Earth to the Children of Men, as appears in the 115 <hi>Pſal. Verſ.</hi> 16. <hi>And it is divided into Portions among Princes</hi> (even ſuch as are Gods Vicegerents) to whom, next God, we muſt alſo render our fear and obe<g ref="char:EOLhyphen"/>dience, becauſe they are Commiſſionated by him, to bear the Sword of Juſtice, and that (both) for the puniſhment of evil doers, and the encouragement of them that do well, that is, for the encouragement of thoſe who Fear God and Honour their Lawful Sove<g ref="char:EOLhyphen"/>raign; living in Peace and Unity among themſelves; which is the duty that <hi>Solomon</hi> enjoyns in the firſt Clauſe of my Text, where he ſaith to every Subject—<hi>My Son, fear thou the Lord, and the King.</hi>
+            </p>
+            <pb n="9" facs="tcp:65155:8"/>
+            <p>Whatever Laws, or Edicts, are eſtabliſh<g ref="char:EOLhyphen"/>ed by a King, either Concordant, or not contradictory to the word of God; It is the duty of every ſober Subject, to have as much regard to their tendency, as if they were immediately deliver'd by the Mouth of God himſelf; for every Prince is (conditio<g ref="char:EOLhyphen"/>nally) Gods Pleni-potentiary unto whom he gives tolleration to enact ſuch uſeful Laws, as may be requiſite towards the ſupport and preſervation of his Government; from which Laws all ſubordinate Magiſtrates derive Power to puniſh ſuch offenders as wilfully violate, or contemn the ſame, (according to the merit of the offence committed)— An incomparable inſtance whereof, we have in a gracious Commiſſion which Princely <hi>Ar<g ref="char:EOLhyphen"/>taxerxes</hi> (the <hi>Perſian</hi> King) granted to Prieſt<g ref="char:EOLhyphen"/>ly <hi>Ezra</hi> (a famous Scribe in the Law of <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi>) as appears in the 7th. <hi>Chap.</hi> of the Book of <hi>Ezra,</hi> at the 25, and 26 <hi>Verſes,</hi> where <hi>Ar<g ref="char:EOLhyphen"/>taxerxes</hi> delivered his Commiſſion unto him, in theſe very words.—<hi>And thou</hi> Ezra, <hi>after the wiſdom of thy God, which is in thine hand, ſet Magiſtrates and Judges, which may judge all the People that are beyond the River, all ſuch as know
+<pb n="10" facs="tcp:65155:9"/> the Laws of thy God, and teach ye them which know them not.</hi>
+            </p>
+            <p>
+               <hi>And whoſoever will not do the Law of thy God, and the Law of the King, let judgment be execu<g ref="char:EOLhyphen"/>ted ſpeedily upon him, whether it be unto death, or to baniſhment, or to confiſcation of goods, or to im<g ref="char:EOLhyphen"/>priſonment.</hi>
+            </p>
+            <p>Theſe are the Legal Penalties to be inflic<g ref="char:EOLhyphen"/>ted upon all thoſe that deſpiſe the Injuncti<g ref="char:EOLhyphen"/>ons of God and the King; to make ſuch mutinies and inſurrections in a Realm, as might be detrimental to the form of Go<g ref="char:EOLhyphen"/>vernment; which muſt needs be a great ag<g ref="char:EOLhyphen"/>gravation to the Supream Majeſty of Hea<g ref="char:EOLhyphen"/>ven, who in the <hi>eighth Chapter</hi> of <hi>Solomons Pro<g ref="char:EOLhyphen"/>verbs,</hi> at the <hi>fifteenth</hi> and <hi>ſixteenth Verſes;</hi> ſpeaks thus of Superior Powers,—</p>
+            <p>
+               <hi>By me Kings Reign and Princes decree Juſtice.</hi>
+            </p>
+            <p>
+               <hi>By me Princes Rule, and Nobles, even all the Judges of the Earth.</hi>
+            </p>
+            <p>Seeing therefore that all Kings, Princes, Nobles and Judges of the Earth, have their Regallity, Decrees and Ordinances from God; then muſt it be the duty of all their inferiors to tender their obedience unto ſuch
+<pb n="11" facs="tcp:65155:9"/> Decrees, Acts or Ordinances, as they by Commiſſion from God ſhall impoſe upon the Subjects. And this is the Apoſtolical ad<g ref="char:EOLhyphen"/>vice of <hi>St. Peter,</hi> in his 1ſt. <hi>Epiſtle, Chapter</hi> the <hi>ſecond,</hi> at the <hi>thirteenth</hi> and <hi>fourteenth Verſes.</hi> Where to the Strangers ſcattered throughout <hi>Pontus, Galatia, Cappadocia, Aſia,</hi> and <hi>Bythinia,</hi> he ſpake theſe expreſſions — <q>Submit your ſelves to every ordinance of Man, for the Lords ſake, whether it be to the King as Supreme; or unto Governors, as unto them that are ſent by him, for the puniſh<g ref="char:EOLhyphen"/>ment of evil doers, and for the praiſe of them that do well.</q> From whence we may obſerve, that every Magiſtrate, acting for the glory of God, and the good of his King, ought (for their ſakes) to be reve<g ref="char:EOLhyphen"/>rently eſteemed and obeyed, I might alledge ſeveral Teſtimonies of Scripture in the proof of this point. As <hi>Geneſis</hi> the 41th. and 40th. Where <hi>Pharaoh</hi> ſaid unto <hi>Joſeph— Thou ſhalt be over my Houſe, and according to thy Word, ſhall all my People be rul'd:</hi> And in the <hi>ſixteenth Chap<g ref="char:EOLhyphen"/>ter</hi> of <hi>Exodus, Verſe</hi> the <hi>eighth,</hi> we read how the <hi>Iſraelites</hi> in murmuring againſt <hi>Moſes</hi> their Chief Prince, and <hi>Aaron</hi> their Chief Prieſt,
+<pb n="12" facs="tcp:65155:10"/> did (more abundantly) murmur in their Hearts againſt God: For ſaith the Text,</p>
+            <p>
+               <hi>The Lord heareth your murmurings which ye mur<g ref="char:EOLhyphen"/>mur againſt him: And what are we? Your murmur<g ref="char:EOLhyphen"/>ings are not againſt us, but againſt the Lord.</hi> Al<g ref="char:EOLhyphen"/>ſo in the 17th. <hi>Chapter</hi> of <hi>Deuteronomy,</hi> the 10th. 11th. and 12th. <hi>Verſes, Moſes</hi> being the Chief Magiſtrate of the Iſraelites ſpake un<g ref="char:EOLhyphen"/>to them theſe words.— <hi>And thou ſhalt do ac<g ref="char:EOLhyphen"/>cording to the Sentence which they of that place (which the Lord ſhall chuſe) ſhall ſhew thee, and thou ſhalt obſerve to do according to all that they inform thee.</hi>
+            </p>
+            <p>
+               <hi>According to the Sentence of the</hi> Law <hi>which they ſhall teach thee, and according to the judgment which they ſhall tell thee, thou ſhalt do: Thou ſhalt not decline from the Sentence which they ſhall ſhew thee, to the right hand, nor to the left.</hi>
+            </p>
+            <p>
+               <hi>And the Man that will do preſumptuouſly, and will not hearken unto the Judge, even that Man ſhall die, and thou ſhalt put away the evil from</hi> Iſrael.</p>
+            <p>The like Teſtimony, we find in the <hi>Firſt Chapter</hi> of <hi>Joſhua,</hi> at the 16th. 17. and 18th. <hi>Verſes.</hi> Where the <hi>Hebrews</hi> ſpake thus to their Champion <hi>Joſhua. All that thou commandeſt us, we will do, and whitherſoever thou ſendeſt us, we
+<pb n="13" facs="tcp:65155:10"/> will go. According as we hearkened unto</hi> Moſes <hi>in all things, ſo will we hearken unto thee. Whoſoever he be that doth rebel againſt thy Commandment, and will not hearken unto thy words, in all that thou com<g ref="char:EOLhyphen"/>mandeſt him, he ſhall be put to death.</hi>
+            </p>
+            <p>Whatever Precepts in the Old Teſtament require our obedience to Superior Powers, we find ſuch Precepts fully confirmed in the New, as appears in the 22d. <hi>Chap.</hi> of St. <hi>Matthew's Goſpel,</hi> at the 21ſt <hi>Verſe.</hi> Where our Saviour ſaid unto <hi>Simon Peter, Render unto</hi> Caeſar <hi>the things that are</hi> Caeſars, <hi>and unto</hi> God <hi>the things that are</hi> Gods. To render God and <hi>Caeſar</hi> their dues, was the godly practice of the Apoſtles; and therefore both St. <hi>Paul</hi> and St. <hi>Peter</hi> have left us ſufficient rules to imitate their Religious and Loyal Converſa<g ref="char:EOLhyphen"/>tion; as it is apparent in the 13th. <hi>Chap.</hi> of the Epiſtle to the <hi>Romans,</hi> at the 1ſt. and 2d. <hi>Verſes,</hi> Where St. <hi>Paul</hi> ſaith, <hi>Let every Soul be ſubject to the Higher Powers: For there is no Power but of God, the Powers that be, are or<g ref="char:EOLhyphen"/>dained of God. Whoſoever therefore reſisteth the Power, reſiſteth the ordinance of God, and they that reſiſt, ſhall receive to themſelves Damnation.</hi> St. <hi>Peter</hi> alſo hath the like rule, in his firſt Epi<g ref="char:EOLhyphen"/>ſtle
+<pb n="14" facs="tcp:65155:11"/> 2d. <hi>Chap.</hi> at the 17th. <hi>Verſe,</hi> where he ſaith, <hi>Honour all Men; love the Brotherhood; fear God, honour the King.</hi> Thus much ſhall ſuf<g ref="char:EOLhyphen"/>fice in reference to the firſt propoſition, from which I aſſerted, that it is the incumbent du<g ref="char:EOLhyphen"/>ty of every rational Perſon, to Fear God, and Honour his King, as being ſuitable with the firſt clauſe in my Text, where <hi>Solomon</hi> ſaith, <hi>My Son, fear thou the Lord and the King.</hi>
+            </p>
+            <p>From whence I proceed to handle the 2d. propoſition, namely to affirm, that he who fears God, ought in ſuch a manner to ho<g ref="char:EOLhyphen"/>nour his King, as not to ſide with thoſe that would alter or change his Government, as anſwerable to theſe words of the ſecond clauſe in my firſt Verſe, <hi>And meddle not with them that are given to change.</hi>
+            </p>
+            <p>It is very remarkable (that by the diſcord of the <hi>Arians</hi>) Multitudes of People fell away from Chriſtianity, to Gentiliſm and Infideli<g ref="char:EOLhyphen"/>ty; ſo likewiſe by our late Animoſities in this Kingdom, many chang'd their Opinions (and Practiſes) to Rantiſm, Atheiſm and Im<g ref="char:EOLhyphen"/>piety; in King <hi>James</hi> his days (of bleſſed me<g ref="char:EOLhyphen"/>mory ſeveral Perſons began to cry for the <hi>Geneva</hi> Diſcipline, and <hi>Scottiſh</hi> Reformation
+<pb n="15" facs="tcp:65155:11"/> in the Church; whereupon the ignorant mul<g ref="char:EOLhyphen"/>titude was ſo ſtirred up, that (like an <hi>Aegypti<g ref="char:EOLhyphen"/>an</hi> Plague) the whole Land was infeſted with Sects and Tumults (in ſo much) that the State was troubled, the King diſobeyed, good Laws neglected, violence and villany offered, to all that were poſſeſſed with Loyalty and Allegiance towards their Soveraign; this brought the Kingdom into ſuch a confuſed Diſtraction, that much People grew obſtinate and diſloyal; ſome pleading for Liberty of Conſcience, and under that Nicety forſaking Communion with the Church Catholick, to flock with ſeditious Multitudes, either to Mountains, Woods, Barns or Stables, any where, rather than the Place of Holy Con<g ref="char:EOLhyphen"/>vocation, though conſecrated for the Worſhip and Honour of God, in alluſion unto the Temple of <hi>Solomon;</hi> whereof <hi>David</hi> ſaid, <hi>In his Temple, ſhall every Man ſpeak of his honor.</hi> But wil<g ref="char:EOLhyphen"/>fully forſaking their Mother Church, they ſud<g ref="char:EOLhyphen"/>denly fell to Sedition, from Sedition, to privy Conſpiracy againſt the Government, from Conſpiracy, to Rebellion, from Rebellion to falſe Doctrine, from falſe Doctrine, to Here<g ref="char:EOLhyphen"/>ſie, from Hereſie, to Schiſm, from Schiſm
+<pb n="16" facs="tcp:65155:12"/> to hardneſs of heart, and from hardneſs of heart, to contempt of Gods Word and Com<g ref="char:EOLhyphen"/>mandment; like unto thoſe filthy Dreamers who deſpiſe Regal Dominion, and ſpeak evil of ſecular and civil Dignities, as St. <hi>Jude</hi> re<g ref="char:EOLhyphen"/>marks in the 8. verſ. of his Epiſtle.</p>
+            <p>Theſe are the Gradations of a profeſt Schiſmatick, and Schiſm is as antient as the Devil himſelf; for he was the firſt Inventer of it, as appears by the Diſſention which he made amongſt the Caeleſtial Angels, until he and they became Apoſtates; for which pre<g ref="char:EOLhyphen"/>ſumption he was caſt (under the Name of <hi>Lucifer</hi>) into the depth of Hell, as appears in the 14. <hi>Chap.</hi> of the Propheſie of Iſaiah at the 14, and 15. <hi>verſes.</hi>
+            </p>
+            <p>In the ſecond Place, after he had put the An<g ref="char:EOLhyphen"/>gels at variance one with another, and both himſelf and them, in oppoſition to God, he proceeds to ſet man at difference with his Ma<g ref="char:EOLhyphen"/>ker, and that in the Garden of <hi>Eden;</hi> where <hi>Adam</hi> and <hi>Eve</hi> conſenting to his (Serpentine) Temptation, became guilty of ſin and eternal death.</p>
+            <p>Thirdly, aſſoon as this <hi>(diabolical)</hi> Schiſma<g ref="char:EOLhyphen"/>tick had ſet man at odds with his Maker, he
+<pb n="17" facs="tcp:65155:12"/> did ſet one man to deſtroy another, as appears in the 4. <hi>Chap.</hi> of <hi>Geneſis, v.</hi> 8. where (by his e<g ref="char:EOLhyphen"/>vil means) <hi>Cain roſe up againſt Abel his Brother, and ſlew him.</hi>
+            </p>
+            <p>From hence it may be obſerved, that where<g ref="char:EOLhyphen"/>ever <hi>Satan</hi> ſows his ſeeds of <hi>ſedition,</hi> there o<g ref="char:EOLhyphen"/>thers may reap the fruit of Murder and Con<g ref="char:EOLhyphen"/>fuſion: This Truth might be witneſſed, (in the Kingdom of <hi>England</hi>) by an inhumane and unparallel'd Experience, namely, the Aſ<g ref="char:EOLhyphen"/>ſaſſination or Murder of our late King, (be<g ref="char:EOLhyphen"/>ing the <hi>odium</hi> of all Chriſtendom) occaſioned by the diſturbance of our home-bred diviſi<g ref="char:EOLhyphen"/>ons, which created contention and debate a<g ref="char:EOLhyphen"/>mongſt us, being the malignant Marks of Sa<g ref="char:EOLhyphen"/>tans Synagogue, and directly oppoſite to the badges of Chriſts Church, which are, Unity, Peace, and Concord, for as St. <hi>Paul</hi> ſaith in his 1ſt. Epiſtle to the <hi>Corinths,</hi> the 11. <hi>Chap. ver.</hi> 16.—<hi>If any man ſeemeth to be contentious, we have no ſuch cuſtom, neither the Churches of God.</hi>
+            </p>
+            <p>Seing therefore that the Church of God, ad<g ref="char:EOLhyphen"/>mits of no contentious Cuſtoms, let all of us that own our ſelves profeſt Members thereof,
+<pb n="18" facs="tcp:65155:13"/> joyn together in one harmonious conſent, to hold the Faith, <hi>in Unity of Spirit, in the Bond of Peace, and in righteouſneſs of life.</hi> Acknowledging the Truth of my ſecond Propoſition — That he who fears God, ought in ſuch a manner to honour his King, as not to ſide with thoſe that would alter (or change) his Government, and this alſo is anſwerable to theſe words of the latter Clauſe in my firſt Verſe, —<hi>And meddle not with them that are given to change,</hi>
+            </p>
+            <p>Which uſhers me to the management of the Third <hi>Propoſition</hi>— Namely, to prove by expreſs Teſtimonies of Scripture, That ſudden Calamities have enſued upon the Re<g ref="char:EOLhyphen"/>bellion of Schiſmatical (and Factious) Peo<g ref="char:EOLhyphen"/>ple. Which alſo is agreable with the firſt branch of the ſecond <hi>ver.</hi> in my Text, where <hi>Solomon</hi> affirms, <hi>That their Calamity ſhall riſe ſud<g ref="char:EOLhyphen"/>denly.</hi>
+            </p>
+            <p>My firſt Evidence in this reſpect ſhall be alledged from the 16. <hi>Chap.</hi> of <hi>Numbers</hi> at the 31, 32, 33, <hi>&amp;</hi> 34. <hi>verſes,</hi> where it is recorded, That <hi>Korah, Dathan,</hi> and <hi>Abiram,</hi> rebelled a<g ref="char:EOLhyphen"/>gainſt <hi>Moſes,</hi> and refuſed to obey him, where<g ref="char:EOLhyphen"/>upon
+<pb n="19" facs="tcp:65155:13"/> fire came from the Lord, and conſumed <hi>Korah</hi> and his Company —And the earth o<g ref="char:EOLhyphen"/>pened her mouth, and ſwallowed up <hi>Dathan</hi> and <hi>Abiram,</hi> with their Houſes, and all the men that appertained to them, and all their goods, and they periſhed from among the Congre<g ref="char:EOLhyphen"/>gation.— And again, when the Congregati<g ref="char:EOLhyphen"/>on of <hi>Iſrael</hi> murmured againſt <hi>Moſes,</hi> the Lord ſent a Plague amongſt them, whereof there ſuddenly dyed Fourteen thouſand and ſeven hundred, beſides them that dyed about the matter of <hi>Korah,</hi> as appears in the 49. <hi>v.</hi> of the ſame <hi>Chap.</hi>
+            </p>
+            <p>Another Inſtance we have in the 21. <hi>Chap.</hi> of <hi>Numbers</hi> at the 5, <hi>&amp;</hi> 6. <hi>v.</hi> where it is ſaid— That the <hi>Lord</hi> ſent fiery Serpents amongſt the <hi>Iſraelites,</hi> and they bit the people, and much People of <hi>Iſrael</hi> dyed, for their murmuring againſt Moſes (who in thoſe days) was their chief Magiſtrate.</p>
+            <p>Likewiſe <hi>Abſolom</hi> rebelled againſt King <hi>David,</hi> Lord and Father, but his great Ar<g ref="char:EOLhyphen"/>my was overthrown, and Twenty Thouſand af them were ſlain, and himſelf hanged by
+<pb n="20" facs="tcp:65155:14"/> the head, forſaken by his Mule, and with three Darts thruſt through the heart by <hi>Joab,</hi> and Ten young men that bare <hi>Joab</hi>'s Armour, compaſſed him about, and ſlew him, as you may read in the 18. <hi>Chap.</hi> of the ſecond Book of <hi>Samuel</hi> at the 7.14, <hi>&amp;</hi> 15. <hi>ver.</hi>
+            </p>
+            <p>Alſo <hi>Sheba</hi> (the Son of <hi>Bichri</hi>) rebelled a<g ref="char:EOLhyphen"/>gainſt King <hi>David,</hi> and blew a Trumpet, and ſaid, we have no part in <hi>David,</hi> neither have we Inheritance in the Son of <hi>Jeſse;</hi> and every man of <hi>Iſrael</hi> went up from after <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> and followed <hi>Sheba;</hi> but ſhortly after, <hi>Sheba</hi> being beſieged by <hi>Joab</hi> in <hi>Abel,</hi> had his head ſtricken off, and thrown over the Wall to <hi>Joab,</hi> as it is recorded in the 20. <hi>Chap.</hi> of the ſecond of <hi>Samuel</hi> at the 1, 2, 21, 22. <hi>verſes.</hi>
+            </p>
+            <p>
+               <hi>Baaſha</hi> the Son of <hi>Ahijah</hi> conſpired againſt <hi>Nadab,</hi> his Lord and King; and ſlew him; as appears in the 15. <hi>Ch.</hi> of the firſt Book of <hi>Reg. ver.</hi> the 27. But in the 16. <hi>Chap.</hi> of the ſame Book, at the 1, 2, &amp; 3. <hi>v. Jehu</hi> the Son of <hi>Ha<g ref="char:EOLhyphen"/>nani</hi> propheſy'd againſt him (ſaying from God) I will take away the Poſterity of <hi>Baa<g ref="char:EOLhyphen"/>ſha,</hi> and will make thy Houſe like the Houſe
+<pb n="21" facs="tcp:65155:14"/> of <hi>Jeroboam</hi> the Son of <hi>Nebat,</hi> him that dieth of <hi>Baaſha</hi> in the City, ſhall the Dogs eat; and him that dyeth of his, in the fields, ſhall the Fowls of the air eat.</p>
+            <p>
+               <hi>Zimri</hi> a ſervant to <hi>Elah,</hi> King of <hi>Iſrael,</hi> con<g ref="char:EOLhyphen"/>ſpired againſt his Maſter and ſlew him; but within ſeven days, <hi>Omri</hi> whom the People made King, came and beſieged him in <hi>Tir<g ref="char:EOLhyphen"/>zah,</hi> and it came to paſs, when <hi>Zimri</hi> ſaw the City was taken, that he went into the Palace of the King, and burnt the Kings houſe over his head, and dyed, as it is apparent in the 16th. Chapter of the Firſt Book of the Kings, from the 9th. to the 19th. Verſe.</p>
+            <p>The Servants of <hi>Joaſh,</hi> King of <hi>Juda,</hi> con<g ref="char:EOLhyphen"/>ſpired againſt him, and ſlew the King in the Houſe of <hi>Millo:</hi> as appears in the Twelfth Chapter of the ſecond Book of the <hi>Kings,</hi> Verſe 20. But in the 14. Chapter of the ſame Book, Verſe 5. It is ſaid, That, as ſoon as <hi>Amaziah</hi> his Son had the Kingdom Confirm<g ref="char:EOLhyphen"/>ed in his hand, he ſlew his Servants who had ſlain the King his Father.</p>
+            <pb n="22" facs="tcp:65155:15"/>
+            <p>There is alſo a very remarkable paſſage in the 21. Chapter of the 2d. Book of the <hi>Kings</hi> at the 23, and 24, Verſes, where it is ſaid, That the Servants of <hi>Ammon</hi> Conſpi<g ref="char:EOLhyphen"/>red againſt him, and ſlew the King in his own Houſe, and the People of the Land ſlew all them that had Conſpir'd againſt King <hi>Ammon.</hi>— And the People of the Land made <hi>Joſiah</hi> his Son, King in his ſtead.</p>
+            <p>A Parrallel of this example we had in the Martyrdom of our Late King, and the Re<g ref="char:EOLhyphen"/>ſtauration of our preſent Soveraign, for his own Subjects conſpired againſt him, and ſlew the King at his own Houſe; and the People of the Land (by putting the Laws in Execution) did cut off ſome of thoſe that Conſpired the death of their Royal Maſter: And again <hi>Joſiah-like,</hi> the people of this Land (by the wonderful Providence of God) did place his Princely Son, to rule (the Realm) in his Fathers ſtead; To whoſe gracious Perſon, may God grant a long and a proſperous Reign over us I ſhall cite Two or Three Examples (from the New Teſtament) and ſo put a Pe<g ref="char:EOLhyphen"/>riod to this noted Point.</p>
+            <pb n="23" facs="tcp:65155:15"/>
+            <p>
+               <hi>Joſeph</hi> and <hi>Mary,</hi> the Parents or our Lord and Saviour, (willing to ſhew their Loyalty and Obedience) upon the command of <hi>Au<g ref="char:EOLhyphen"/>guſtus Caeſar,</hi> went up unto their own City to be taxed, as appears in the 2d. Chap. of St. <hi>Luke's</hi> Goſpel Ver. the 4th. Chriſt himſelf paid Tribute to <hi>Caeſar,</hi> and ſubmitted to the judg<g ref="char:EOLhyphen"/>ment of <hi>Pilate,</hi> tho he could eaſily have deli<g ref="char:EOLhyphen"/>vered himſelf from the ſame: As appears in the 17 Chapter of St. <hi>Matthew,</hi> at the 27. Verſe.</p>
+            <p>We read in the 5. Chapter of the <hi>Acts,</hi> Verſe 37. That one <hi>Judas</hi> of <hi>Galilee</hi> councel<g ref="char:EOLhyphen"/>led the <hi>Jews,</hi> that by no means they ſhould pay Tribute unto <hi>Caeſar;</hi> but to maintain their ancient Priviledges and Cuſtoms, and ſo drew away much People after him; but he periſhed, and all, as many as obeyed him, were diſperſed.</p>
+            <p>St. <hi>Paul</hi> ſubmitted to, and pleaded his cauſe before <hi>Felix</hi> the <hi>Roman</hi> Governour; as appears, <hi>Acts</hi> the 24th. at the 10th. <hi>Verſe.</hi>
+            </p>
+            <pb n="24" facs="tcp:65155:16"/>
+            <p>The like he did before <hi>Feſtus,</hi> who came in the room of <hi>Felix,</hi> and afterwards he appeal<g ref="char:EOLhyphen"/>ed unto <hi>Caeſar</hi>'s Judgment-ſeat, as it is very obſervable in the 25. <hi>Chap.</hi> of the <hi>Acts</hi> at the 8. &amp; 11. <hi>ver.</hi>
+            </p>
+            <p>Now it plainly appears that <hi>Joſeph,</hi> and <hi>Mary,</hi> and <hi>Jeſus,</hi> and <hi>Paul,</hi> were obedient to civil Magiſtrates, and Governors; But ſuch as were diſobedient and rebellious, they were rewarded according to their due de<g ref="char:EOLhyphen"/>ſerts, as I have ſufficiently demonſtrated from the third Propoſition,</p>
+            <p>Whence I proved by expreſs Teſtimonies of Scripture, that ſudden Calamities have enſued upon the Rebellion of Schiſmatical and Factious People, as agreeable with the firſt Branch of the 2d. <hi>ver.</hi> in my Text, Where <hi>Solomon</hi> affirms, <hi>That their Calamity ſhall riſe ſud<g ref="char:EOLhyphen"/>denly.</hi>
+            </p>
+            <p>From which I paſs to the Fourth Propoſiti<g ref="char:EOLhyphen"/>on: Namely to maintain, That in whatever Nation the People are arbitrarily divided in oppoſition to the Government, ſuch En<g ref="char:EOLhyphen"/>terprizes
+<pb n="25" facs="tcp:65155:16"/> portend thoſe Parties ruine; which alſo is correſpondent with the laſt Branch of my Text, where <hi>Solomon</hi> propounds this o<g ref="char:EOLhyphen"/>minous Interrogatory— <hi>And who knoweth th ruine of them both?</hi>
+            </p>
+            <p>It is to be obſerved in the courſe of all A<g ref="char:EOLhyphen"/>ges, that the moſt flouriſhing Kingdoms of the World, never received ſuch fearful down<g ref="char:EOLhyphen"/>falls, from open and forreign Enemies, as they have done by ſecret Innovations and Domeſtick conſpiracies.</p>
+            <p>The deſtruction of <hi>Jeruſalem</hi> (that Me<g ref="char:EOLhyphen"/>tropolis of earthly Cities) began by the civil, or rather uncivil diſcords, of <hi>Simon</hi> and <hi>Eleazar;</hi> but when <hi>Veſpatian</hi> the Empe<g ref="char:EOLhyphen"/>ror, and his Son <hi>Titus</hi> came againſt it with an Army, they found the whole Nation of the <hi>Jews,</hi> divided into three factions, each or them ready to undo the other: Whereupon followed the overthrow of that Kingdom, and raſing of <hi>Jeruſalem</hi> even le<g ref="char:EOLhyphen"/>vel with the ground; for then there were ſlain of the <hi>Jews</hi> (being Men, Women and Children) as the learned <hi>Joſephus</hi> writes, who
+<pb n="26" facs="tcp:65155:17"/> (at that time) was Captain in the field, no leſs than Eleven hundred Thouſand.</p>
+            <p>It is apparently demonſtrable, that every Schiſm proceeds from it's firſt Point, to the full Period of a plain Hereſie; of one ſmall ſpark is kindled a great fire; <hi>Arrius</hi>'s Hereſie was but a ſpark at the beginning, yet this ſpark did ſet all <hi>Affrica</hi> and <hi>Europe</hi> on the (furious) fire of Contention, that hitherto the Church militant recover'd not its former eſteem and purity. Alſo <hi>Mahomet</hi> (that Antichriſtian Infidel) be<g ref="char:EOLhyphen"/>gan with a very few of his <hi>Sect,</hi> but in a ſhort time he over-ran <hi>Aſia,</hi> and did ſo deface the beauty of the Eaſtern Churches, that (to this day) he continues a Scourge to all Chri<g ref="char:EOLhyphen"/>ſtendom: And it is obſerv'd (by woful ex<g ref="char:EOLhyphen"/>perience) That the <hi>Anabaptists</hi> (of late years) kindled ſuch a Spark of Error in <hi>Germany</hi> (as grew into ſuch a combuſtible flame) that ma<g ref="char:EOLhyphen"/>ny Cities, Towns and Temples, were ſet on fire, whereupon iſſued a bloody Maſſacre of many thouſand People.</p>
+            <p>But we need not go ſo far as <hi>Jeruſalem, Tur<g ref="char:EOLhyphen"/>ky</hi> or <hi>Germany,</hi> for Examples.</p>
+            <pb n="27" facs="tcp:65155:17"/>
+            <p>This Kingdom of ours, could never be in<g ref="char:EOLhyphen"/>vaded nor conquered, till ſuch time as the people were at variance within themſelves; then was <hi>Julius Caeſar</hi> with a ſmall Army, the <hi>Saxons, Danes</hi> and <hi>Normans,</hi> able to poſſeſs, and ſuppreſs our Country.</p>
+            <p>The like Surprizal happened in the time of our late Rebellion, when <hi>England</hi> was depo<g ref="char:EOLhyphen"/>ſed of its Princely Patron-ſhip, to be in ſub<g ref="char:EOLhyphen"/>jection to an Uſurping Protector-ſhip.</p>
+            <p>It is the opinion of <hi>Herodian</hi> (an old Wri<g ref="char:EOLhyphen"/>ter) that as much as War is worſe than peace, ſo much, civil Sedition is worſe than war. And <hi>Titus Livius</hi> ſaith; that it is diſſention which cauſeth the ruine of great Empire.</p>
+            <p>I am ſure this our Kingdom has ſufficiently ſhared in ſuch Calamities, and had not God interven'd his good Providence, the horrible deſigns which were contriv'd not long ſince, might have brought it to utter ruine; For as our Saviour ſaith in the 12. <hi>Chap.</hi> of St. <hi>Mat<g ref="char:EOLhyphen"/>thew,</hi> Verſe 25— Every Kingdom divided againſt it ſelf, is brought to deſolation, and
+<pb n="28" facs="tcp:65155:18"/> every City or Houſe divided againſt it ſelf, ſhall not ſtand. And thus much (briefly) muſt ſuffice in reference to the ruine of that King<g ref="char:EOLhyphen"/>dom and its Subjects, which is undermined by ſeditious People; for theſe might in a (tumultuous way) be ſo deſtructive to each other (and alſo to the Nation) as to weaken the power of their Prince, to wage War with a Forreign enemy; ſo that this point com<g ref="char:EOLhyphen"/>plies with my fourth and laſt propoſition;</p>
+            <p>From which I briefly maintained— That in whatever Nation the People are arbitrarily divided in oppoſition to the Government, ſuch Enterprizes portend thoſe Parties ruine, which fitly correſponds with the laſt branch in my Text, where <hi>Solomon</hi> propounds this ominous Interrogatory; <hi>And who knoweth the ruine of them both?</hi>
+            </p>
+            <p>Which guides me to the Fifth and laſt Point relating to my preſent Subject, that is, to infer the Application both from the Premiſes and the Concluſion of my Text.</p>
+            <pb n="29" facs="tcp:65155:18"/>
+            <p>Since therefore that all Perſons fearing God, ought to honour and obey their lawful Soveraign, and not to meddle with ſuch Peo<g ref="char:EOLhyphen"/>ple as change from his Government, by rea<g ref="char:EOLhyphen"/>ſon the Calamities of ſuch ſhall ſuddenly a<g ref="char:EOLhyphen"/>riſe, yea even to ruine and deſtroy them in their unlawful Enterpriſes. Then let it be our Chriſtian care and diligence ſo to fear God, and honour the King; as to be in due ſubjection to all the ſubordinate Magiſtrates, as thoſe that are ſent by them, for the pu<g ref="char:EOLhyphen"/>niſhment of offenders, more eſpecially to the right Worſhipful the preſent Mayor, to whom God, and the King, have committed the Sword of Juſtice, to execute Judgment in this City: That (as his name is <hi>Samuel</hi>) he might therewith, (<hi>Samuel</hi>-like) hew Diſloy<g ref="char:EOLhyphen"/>alty and Sedition in pieces, as <hi>Agag</hi> the trou<g ref="char:EOLhyphen"/>bler of <hi>Iſrael</hi> was hew'd before the Lord in <hi>Gilgal,</hi> which paſſage is obſervable in the 15. Chapter of the firſt of <hi>Samuel</hi> at the 33. <hi>ver.</hi>— But in the 22, &amp; 23. <hi>ver.</hi> of the ſame <hi>Chap.</hi> the Prophet <hi>Samuel</hi> hath an excellent Obſervati<g ref="char:EOLhyphen"/>on in reference to Obedience and Loyalty, where he ſpeaks theſe Expreſſions— <hi>Behold, to obey is better than ſacrifice; and to hearken then
+<pb n="30" facs="tcp:65155:19"/> the fat of rams —For Rebellion is as the ſin of VVitchcraft, and ſtubborneſs is as Iniquity, and Idola<g ref="char:EOLhyphen"/>try.</hi>
+            </p>
+            <p>But to put a Period to ſuch wilful Practi<g ref="char:EOLhyphen"/>ces, I ſhall inſert this Chriſtian Caution, That if in caſe any Perſons be dejected by reaſon of accuſing Conſciences for withdrawing themſelves (long ſince) from the Communion of their Mother-Church, or neglecting their Duty of Loyalty to the King, as the Foſter-Father thereof: And notwithſtanding all this; have an earneſt deſire for the future, of being conformable to the ſaid Church, in comply<g ref="char:EOLhyphen"/>ance with the Apoſtle's Council, who would have God to be fear'd, and the King honou<g ref="char:EOLhyphen"/>red; I do ardently intreat all ſuch, for the calming, or appeaſing of their Conſciences, to lay hold on the preſent opportunity, that their Obedience, and Gods Mercy might meet together, ſo that Righteouſneſs and Peace may (perpetually) kiſs each other: In the purſuit of which duty, St. <hi>Paul</hi> gives us a Chriſtian (and a Catholick) exhortation in his firſt Epiſtle to <hi>Timothy, the</hi> 2. <hi>Chap.</hi> at the 1, 2, &amp; 3. <hi>ver.</hi> where he delivers this Apoſtolical
+<pb n="31" facs="tcp:65155:19"/> charge, —<q>That, firſt of all, Supplications, Prayers, Interceſſions and giving of Thanks, be made for all men. —For Kings, and for all that are in Authority, that we may lead a quiet and peaceable Life, in all Godlineſs and Honeſty, —For this is good and accep<g ref="char:EOLhyphen"/>table in the ſight of God our Saviour.</q> This was the practice of the holy Apoſtles, and alſo the Rule of the Primitive Fathers Imi<g ref="char:EOLhyphen"/>tation; as appears by a certain Prayer or Col<g ref="char:EOLhyphen"/>lect, recited by <hi>Tertullian</hi> (a reverend Father of the primitive Church) in behalf of the an<g ref="char:EOLhyphen"/>tient Emperors, Worded in theſe Expreſſions, <q>God Almighty, who is the Protector and Defender of Kings, Grant to your Sacred Majeſty a long Life, a happy Reign, a ſe<g ref="char:EOLhyphen"/>cure State and Habitation, a ſtrong Army, a faithful Senate or Councel, and a Loyal People.</q>
+            </p>
+            <p>This Prayer is very requiſite to be minded by every Loyal-hearted Perſon, both for the Good of his Soveraign and himſelf, more eſ<g ref="char:EOLhyphen"/>pecially, by the Subjects of this Kingdom, that God might be intreated to make our King, ſo pious, proſperous and puiſſant in his
+<pb n="32" facs="tcp:65155:20"/> Princely Enterprizes, as that all <hi>European</hi> Tongues may unanimouſly confeſs CARO<g ref="char:EOLhyphen"/>LUS <hi>Ille</hi> MAGNUS, <hi>Charles he is the Great,</hi> By the bleſſing of God he is great in this Na<g ref="char:EOLhyphen"/>tion, and alſo Good to the Nation, for this Kingdom is bleſſed both in his Regal Deſcent and Royal Deportment; as to his Deſcent, he is well known to be the Son of <hi>Nobles,</hi> In which reſpect <hi>Solomon</hi> ſaith in the 10th. <hi>Chap.</hi> of his <hi>Eccleſiastes</hi> at the 17. <hi>ver. —Bleſſed art thou O Land, when thy King is the Son of Nobles.</hi>
+            </p>
+            <p>Our Royal <hi>Charles,</hi> is ſo Noble in all his A<g ref="char:EOLhyphen"/>ctions, that I can parallel him with none, but prudent and princely <hi>Solomon;</hi> like unto whom (in the firſt Place) God has endued his heart with extraordinary Wiſdom: To go in, and out, before the great People of this Kingdom committed to his Princely Tuition.</p>
+            <p n="2">2. As <hi>Solomon</hi> was called <hi>Lemuel,</hi> a King be<g ref="char:EOLhyphen"/>longing to the Lord; ſo alſo may our King; For he is one belonging unto him.</p>
+            <pb n="33" facs="tcp:65155:20"/>
+            <p n="1">1ſt. In that he is The Defender of his Ho<g ref="char:EOLhyphen"/>ly Catholick and Apoſtolick Faith.</p>
+            <p n="2">2dly. As <hi>Solomon</hi> was named <hi>Jedidiah,</hi> a King beloved of the Lord; ſo likewiſe may our So<g ref="char:EOLhyphen"/>veraign; for it is certain, that he was ſo belo<g ref="char:EOLhyphen"/>ved of the Lord, as to be wonderfully reſcu<g ref="char:EOLhyphen"/>ed and preſerved from the furious rage of his enemies, not only before, and at, his Royal Reſtauration, but alſo at ſundry other times, both at home and abroad.</p>
+            <p n="3">3dly. As <hi>Solomon</hi> was called <hi>Shelemo,</hi> a peacea<g ref="char:EOLhyphen"/>ble and a quiet <hi>King,</hi> ſo may our <hi>CHARLES;</hi> for he was ſo quiet and peaceable, as not to revenge much of his Fathers Blood upon the heads of his Enemies, neither fully to recom<g ref="char:EOLhyphen"/>penſe their cruelty upon thoſe Perſons, who by commixing Villany with Violence, lately attempted to embrue their (polluted) hands in his own Royal Blood: So that his Majeſty might have taken up a doleful Lamentation in alluſion to that of the Daughter of <hi>Sion,</hi> mentioned in the 4. <hi>Chap.</hi> of <hi>Jeremiah,</hi> at the
+<pb n="34" facs="tcp:65155:21"/> 31. <hi>ver. That bewaileth her ſelf, and that ſpreadeth her hands, ſaying, Wo is me now; for my Soul is wea<g ref="char:EOLhyphen"/>ried, becauſe of Murtherers</hi> —But may God Al<g ref="char:EOLhyphen"/>mighty preſerve our Prince his gracious Per<g ref="char:EOLhyphen"/>ſon, from all ſuch Diabolical and Inhumane Attempts, by eſtabliſhing Peace within the Walls of his Three <hi>Kingdoms,</hi> and Proſperity in the Palaces thereof; That all his Subjects may live ſo peaceably and quiet under their Vines and their Fig-trees, as to be free from the fear of Evil.</p>
+            <p>Which that we may do, Let us implore God the Father, for the ſake of God the Son, to endue us with the Grace of God the Holy Ghoſt, at all times, in all places, and upon all occaſions, to put in practice that Sacred Ad<g ref="char:EOLhyphen"/>monition of prudent <hi>Solomon</hi> (the Son of <hi>Da<g ref="char:EOLhyphen"/>vid</hi>) in the Words of my preſent Text, where he ſaith to every Subject.</p>
+            <p>
+               <hi>My Son, fear thou the Lord and the King; and meddle not with them that are given to change:</hi>
+            </p>
+            <p>
+               <hi>For their Calamity ſhall riſe ſuddenly, and who knoweth the ruin of them both.</hi>
+            </p>
+            <pb n="35" facs="tcp:65155:21"/>
+            <p>Now to God the Father, God the Son, and God the Holy Ghoſt, a Trinity of Con<g ref="char:EOLhyphen"/>ſubſtantial Perſons, ſubſiſting in the De<g ref="char:EOLhyphen"/>ity of one Individual Eſſence be aſcri<g ref="char:EOLhyphen"/>bed, as is moſt due, all Honour, Glory, Power and Praiſe from henceforth, even for ever more. <hi>AMEN.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
